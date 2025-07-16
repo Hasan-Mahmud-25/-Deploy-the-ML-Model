@@ -1,0 +1,1001 @@
+Date,Region,Customer,Category,Revenue,Profit
+2021-10-06,West,Wonka Co.,Groceries,4747.39,1245.69
+2019-05-20,South,Wayne Enterprises,Electronics,2684.09,523.87
+2024-02-02,North,Stark Inc.,Clothing,3778.11,1044.71
+2020-10-13,West,Globex,Groceries,3879.55,1051.94
+2023-03-17,West,Umbrella,Electronics,813.17,242.31
+2020-12-16,West,Wonka Co.,Electronics,2565.25,320.29
+2019-02-23,North,Acme Corp,Books,982.46,234.16
+2023-04-07,East,Umbrella,Clothing,3252.78,366.25
+2021-08-11,West,Stark Inc.,Furniture,3360.15,403.87
+2022-04-19,North,Cyberdyne,Electronics,1444.05,379.4
+2023-04-08,East,Acme Corp,Groceries,4453.93,969.78
+2024-08-30,South,Stark Inc.,Books,925.36,67.83
+2021-08-20,North,Globex,Books,762.42,153.77
+2023-06-09,North,Wayne Enterprises,Furniture,2296.7,670.0
+2019-04-12,North,Wayne Enterprises,Books,2835.45,677.95
+2025-04-12,East,Wonka Co.,Furniture,4703.79,1103.11
+2021-08-27,North,Acme Corp,Clothing,2365.16,555.0
+2019-04-19,South,Globex,Electronics,444.55,78.99
+2025-10-12,North,Acme Corp,Books,319.28,61.92
+2021-07-07,West,Cyberdyne,Clothing,122.09,6.13
+2022-04-16,West,Acme Corp,Groceries,4590.12,1173.89
+2024-04-17,North,Globex,Books,4578.55,303.12
+2024-12-19,West,Acme Corp,Clothing,3909.08,774.1
+2024-11-19,West,Stark Inc.,Electronics,939.57,209.84
+2025-09-13,South,Wayne Enterprises,Books,2780.35,480.45
+2022-12-21,North,Wonka Co.,Furniture,3885.98,658.33
+2025-03-02,East,Umbrella,Books,510.55,31.81
+2021-05-21,North,Stark Inc.,Books,2790.81,298.1
+2022-08-11,South,Globex,Groceries,1190.65,178.88
+2021-07-18,East,Cyberdyne,Books,1746.64,218.33
+2025-04-07,West,Initech,Furniture,2633.56,735.7
+2019-11-26,North,Umbrella,Groceries,3342.88,791.98
+2021-02-25,West,Cyberdyne,Books,4919.23,1427.41
+2023-09-27,South,Initech,Furniture,1725.86,397.02
+2025-12-22,South,Wonka Co.,Groceries,447.88,43.74
+2020-04-03,West,Umbrella,Electronics,2582.67,667.62
+2022-08-15,North,Umbrella,Groceries,3510.87,464.11
+2019-04-20,East,Umbrella,Books,2036.36,344.93
+2023-11-30,North,Stark Inc.,Clothing,2232.43,321.23
+2023-08-15,South,Globex,Furniture,4964.01,848.01
+2025-02-01,South,Wonka Co.,Books,4442.62,306.57
+2023-09-02,North,Initech,Clothing,4288.44,862.29
+2023-05-08,East,Wonka Co.,Clothing,4034.14,324.96
+2025-06-07,West,Globex,Furniture,4213.71,442.0
+2025-03-11,North,Globex,Clothing,4392.59,1122.1
+2022-08-16,South,Initech,Groceries,3771.92,1045.17
+2023-04-17,West,Globex,Clothing,1760.7,151.3
+2021-05-04,East,Wayne Enterprises,Clothing,1751.38,139.75
+2019-01-20,West,Initech,Electronics,2937.21,446.48
+2023-11-11,West,Stark Inc.,Books,1064.01,123.81
+2021-01-12,North,Umbrella,Clothing,1598.84,222.88
+2024-05-04,West,Acme Corp,Clothing,2763.32,428.01
+2022-06-26,East,Stark Inc.,Clothing,1635.23,489.56
+2022-01-17,South,Umbrella,Groceries,2971.02,154.97
+2021-06-26,East,Acme Corp,Groceries,3469.51,870.73
+2019-07-24,East,Globex,Books,2575.7,513.09
+2025-09-20,North,Initech,Furniture,606.72,111.14
+2020-05-06,West,Wayne Enterprises,Electronics,2676.29,696.76
+2021-01-15,North,Acme Corp,Furniture,2736.82,467.19
+2019-10-06,North,Wonka Co.,Books,3074.62,299.09
+2019-09-24,South,Cyberdyne,Clothing,3630.76,495.61
+2022-03-14,East,Acme Corp,Electronics,3402.47,842.06
+2019-06-04,North,Cyberdyne,Furniture,2770.81,565.64
+2022-07-02,South,Cyberdyne,Groceries,580.9,84.91
+2019-08-14,North,Wayne Enterprises,Clothing,3211.52,317.81
+2025-02-28,West,Acme Corp,Groceries,3754.54,960.18
+2022-08-10,West,Initech,Furniture,747.51,185.94
+2022-04-02,West,Wonka Co.,Groceries,1888.12,277.83
+2024-01-24,South,Cyberdyne,Clothing,365.78,102.84
+2020-01-22,West,Initech,Clothing,2486.55,722.95
+2020-06-11,West,Stark Inc.,Books,4374.51,662.51
+2025-10-07,East,Umbrella,Clothing,1079.88,275.85
+2019-08-07,East,Acme Corp,Electronics,2258.38,434.55
+2021-08-14,South,Wonka Co.,Groceries,2534.89,476.91
+2019-04-10,East,Wayne Enterprises,Books,3797.59,815.54
+2019-08-26,North,Globex,Clothing,2327.66,479.36
+2021-04-09,East,Cyberdyne,Furniture,456.53,89.39
+2024-06-01,West,Wayne Enterprises,Books,3312.34,303.21
+2023-03-19,East,Wonka Co.,Electronics,4386.84,710.89
+2020-02-26,North,Umbrella,Books,3430.95,295.0
+2019-01-07,South,Wonka Co.,Clothing,1879.78,208.58
+2020-04-24,North,Stark Inc.,Furniture,3537.89,939.94
+2019-11-29,East,Cyberdyne,Books,2557.71,162.41
+2023-12-03,West,Cyberdyne,Furniture,1526.76,452.77
+2025-03-21,South,Wayne Enterprises,Furniture,788.3,99.22
+2024-01-25,West,Globex,Furniture,4267.01,412.48
+2020-03-02,North,Initech,Electronics,2958.82,526.0
+2020-12-01,South,Initech,Books,2514.57,565.06
+2020-05-20,West,Umbrella,Books,1966.26,170.72
+2022-02-15,South,Umbrella,Groceries,2118.0,518.85
+2025-01-14,South,Stark Inc.,Electronics,3483.06,727.45
+2021-02-20,East,Acme Corp,Books,3890.98,627.7
+2020-04-13,North,Cyberdyne,Books,4692.19,234.95
+2023-04-25,East,Globex,Groceries,3674.63,1066.28
+2023-06-08,West,Stark Inc.,Groceries,2768.73,283.71
+2019-09-14,East,Acme Corp,Books,4465.28,842.28
+2022-07-10,South,Acme Corp,Groceries,797.06,50.55
+2023-12-10,South,Cyberdyne,Electronics,3620.64,1064.87
+2022-03-17,East,Globex,Groceries,1630.89,376.1
+2023-03-24,West,Cyberdyne,Electronics,2239.52,246.26
+2022-12-04,East,Wonka Co.,Clothing,1828.43,299.64
+2019-08-03,West,Globex,Groceries,646.48,99.31
+2021-10-18,West,Stark Inc.,Electronics,4362.42,991.22
+2020-08-06,South,Wayne Enterprises,Clothing,4438.58,1213.56
+2019-11-27,West,Wayne Enterprises,Groceries,1714.65,346.97
+2025-02-09,North,Acme Corp,Electronics,473.76,119.72
+2022-12-08,East,Stark Inc.,Electronics,1086.33,86.13
+2023-07-07,East,Globex,Groceries,3132.79,771.15
+2022-01-20,North,Stark Inc.,Clothing,4977.7,726.88
+2024-06-08,West,Cyberdyne,Books,4227.0,939.76
+2023-12-31,South,Wonka Co.,Books,1511.82,92.89
+2023-05-25,North,Stark Inc.,Furniture,2354.59,464.44
+2024-04-25,South,Wonka Co.,Clothing,188.88,16.24
+2022-02-26,West,Wayne Enterprises,Electronics,172.34,48.3
+2023-05-17,West,Stark Inc.,Furniture,2284.48,185.98
+2022-01-07,North,Globex,Clothing,2051.58,211.42
+2021-06-06,South,Wayne Enterprises,Furniture,1012.53,161.14
+2022-01-29,North,Wayne Enterprises,Furniture,2973.24,797.41
+2022-04-04,North,Initech,Clothing,4810.14,907.81
+2023-08-20,East,Initech,Groceries,3711.1,959.25
+2019-04-26,South,Initech,Furniture,3364.58,612.16
+2025-01-17,East,Initech,Groceries,1552.11,465.2
+2022-01-29,North,Cyberdyne,Groceries,2209.42,265.2
+2019-09-07,West,Acme Corp,Furniture,3972.67,385.1
+2022-11-17,East,Wayne Enterprises,Clothing,2541.93,322.09
+2024-03-17,South,Wonka Co.,Furniture,2339.46,311.84
+2023-12-27,West,Cyberdyne,Furniture,2850.16,253.51
+2025-01-13,West,Globex,Electronics,123.83,10.55
+2019-01-28,South,Cyberdyne,Groceries,103.84,18.89
+2019-11-09,East,Initech,Groceries,3377.6,905.18
+2019-08-25,North,Umbrella,Books,4799.82,527.16
+2020-12-09,West,Initech,Clothing,4400.92,1221.26
+2021-04-07,West,Initech,Clothing,4887.76,422.13
+2021-01-23,East,Wayne Enterprises,Electronics,2235.75,599.42
+2020-06-27,West,Cyberdyne,Electronics,4978.11,651.24
+2025-10-04,North,Initech,Groceries,527.85,95.06
+2020-09-21,West,Umbrella,Books,1660.84,321.92
+2020-10-03,West,Cyberdyne,Books,3998.47,418.19
+2023-01-13,South,Wayne Enterprises,Electronics,1507.79,285.81
+2019-09-11,West,Umbrella,Electronics,810.13,73.64
+2019-02-19,South,Cyberdyne,Books,1104.45,169.71
+2022-09-27,South,Cyberdyne,Electronics,1690.31,415.06
+2019-11-18,North,Cyberdyne,Clothing,4059.76,914.57
+2020-10-31,East,Acme Corp,Electronics,3607.61,1032.68
+2019-05-10,North,Acme Corp,Clothing,293.17,45.59
+2022-10-01,West,Wonka Co.,Furniture,2557.04,418.88
+2019-09-20,North,Globex,Clothing,4429.87,1236.62
+2024-11-16,South,Cyberdyne,Groceries,3936.81,1094.14
+2020-07-28,North,Stark Inc.,Groceries,1049.25,76.17
+2023-05-13,West,Acme Corp,Electronics,4104.1,634.28
+2022-12-16,South,Umbrella,Books,3703.6,767.5
+2024-06-07,South,Umbrella,Clothing,3837.33,745.97
+2023-04-15,East,Umbrella,Clothing,3733.92,1017.65
+2019-06-19,West,Wayne Enterprises,Clothing,2857.51,150.36
+2021-09-22,North,Wayne Enterprises,Electronics,4289.34,1274.92
+2021-05-20,East,Globex,Groceries,1059.61,134.44
+2020-05-16,West,Acme Corp,Furniture,4337.02,1042.43
+2022-11-23,South,Globex,Electronics,4336.28,482.23
+2022-12-19,South,Stark Inc.,Books,2618.08,588.34
+2019-03-22,South,Initech,Clothing,3066.14,542.63
+2024-01-23,South,Wonka Co.,Groceries,3388.93,190.41
+2021-12-24,South,Wayne Enterprises,Furniture,3017.11,302.16
+2025-03-18,North,Initech,Clothing,3377.98,637.84
+2024-03-29,West,Cyberdyne,Groceries,3215.83,175.34
+2024-08-31,East,Initech,Electronics,3314.64,691.99
+2019-10-11,West,Initech,Groceries,2716.53,166.62
+2025-08-28,South,Globex,Groceries,3181.79,223.19
+2020-10-26,North,Cyberdyne,Groceries,2122.0,237.78
+2021-02-05,East,Wonka Co.,Groceries,3670.21,288.62
+2022-04-05,South,Stark Inc.,Books,1803.11,442.48
+2025-10-31,West,Wonka Co.,Books,3679.08,559.54
+2024-10-11,East,Wayne Enterprises,Electronics,870.4,224.67
+2024-09-07,South,Umbrella,Groceries,311.37,20.28
+2021-03-03,West,Umbrella,Furniture,3191.95,937.66
+2023-11-15,South,Initech,Clothing,3409.93,811.14
+2021-02-07,North,Cyberdyne,Books,1252.7,279.86
+2022-12-12,South,Umbrella,Electronics,783.4,189.35
+2025-07-29,West,Cyberdyne,Books,1485.04,285.16
+2019-10-17,South,Umbrella,Furniture,1969.88,151.83
+2019-02-13,South,Globex,Electronics,4346.56,595.67
+2022-05-03,South,Cyberdyne,Clothing,3414.39,542.79
+2025-11-23,East,Initech,Electronics,1087.06,91.54
+2020-04-12,East,Acme Corp,Clothing,3456.21,195.55
+2020-04-28,North,Cyberdyne,Books,935.96,203.11
+2025-05-04,South,Wonka Co.,Furniture,4064.9,1045.57
+2020-06-10,North,Cyberdyne,Groceries,2677.78,498.6
+2025-06-17,East,Acme Corp,Furniture,223.83,20.72
+2022-10-23,West,Stark Inc.,Clothing,4998.73,1471.88
+2020-04-11,South,Globex,Books,532.46,153.95
+2023-06-12,North,Globex,Clothing,3279.49,695.8
+2020-11-01,South,Wonka Co.,Electronics,2234.56,666.74
+2022-12-16,East,Cyberdyne,Groceries,3701.92,645.67
+2020-12-01,North,Cyberdyne,Clothing,3143.91,461.65
+2023-03-09,West,Wonka Co.,Furniture,277.48,81.84
+2021-08-12,North,Umbrella,Furniture,4737.33,879.75
+2024-07-29,South,Wayne Enterprises,Clothing,1568.97,150.47
+2022-11-06,West,Acme Corp,Electronics,1412.04,385.87
+2021-04-16,North,Globex,Clothing,184.05,29.22
+2019-10-17,North,Umbrella,Books,2030.32,107.05
+2020-07-10,West,Stark Inc.,Electronics,3321.84,756.99
+2020-04-04,South,Cyberdyne,Clothing,3143.0,374.25
+2024-07-14,North,Cyberdyne,Electronics,1646.66,176.7
+2023-04-11,West,Acme Corp,Electronics,1794.66,289.49
+2023-11-23,South,Globex,Clothing,3724.78,629.78
+2020-09-30,South,Globex,Clothing,2626.78,241.92
+2021-03-24,South,Acme Corp,Electronics,2880.63,276.08
+2024-01-21,West,Acme Corp,Furniture,2195.82,521.18
+2019-07-26,East,Acme Corp,Books,2876.14,228.78
+2019-10-06,South,Initech,Books,2959.41,668.73
+2021-07-29,East,Wonka Co.,Electronics,3240.5,740.72
+2020-06-21,East,Wonka Co.,Clothing,2899.17,691.04
+2021-11-07,West,Initech,Clothing,1464.08,400.66
+2019-10-22,North,Cyberdyne,Books,1860.51,184.03
+2025-09-16,West,Umbrella,Clothing,1589.79,444.05
+2025-03-18,West,Cyberdyne,Groceries,3103.33,484.34
+2024-05-09,North,Wonka Co.,Furniture,3653.21,517.73
+2021-04-28,West,Umbrella,Clothing,1416.67,352.33
+2019-11-09,West,Umbrella,Groceries,4305.11,721.99
+2021-05-23,North,Globex,Clothing,3942.79,615.63
+2024-06-02,South,Initech,Furniture,319.66,57.15
+2025-02-19,East,Cyberdyne,Electronics,2470.11,640.37
+2023-12-21,South,Stark Inc.,Electronics,4775.52,552.38
+2019-11-07,South,Cyberdyne,Groceries,1571.42,369.4
+2021-11-30,North,Wonka Co.,Groceries,3377.46,774.83
+2022-04-02,South,Stark Inc.,Electronics,2546.35,187.34
+2021-08-21,East,Wonka Co.,Clothing,2726.13,194.09
+2020-10-01,South,Wayne Enterprises,Electronics,508.02,50.91
+2019-11-18,West,Umbrella,Electronics,536.12,50.54
+2025-02-02,East,Wonka Co.,Clothing,1621.9,207.78
+2020-06-15,East,Stark Inc.,Furniture,4031.03,640.54
+2021-09-30,North,Cyberdyne,Electronics,2069.58,374.85
+2020-10-19,East,Wonka Co.,Furniture,2933.31,193.0
+2022-10-12,West,Umbrella,Furniture,542.59,53.37
+2020-03-06,East,Initech,Electronics,2024.8,426.42
+2021-09-09,East,Cyberdyne,Books,2496.54,667.63
+2019-01-26,West,Stark Inc.,Clothing,4171.56,594.06
+2023-07-29,West,Globex,Groceries,1231.38,219.06
+2021-06-20,East,Cyberdyne,Books,4810.23,1152.42
+2023-03-27,North,Initech,Furniture,2200.88,251.68
+2024-05-18,East,Initech,Electronics,1960.54,472.66
+2020-06-21,East,Wonka Co.,Electronics,1739.59,94.06
+2021-05-24,North,Cyberdyne,Books,4115.44,1078.99
+2021-07-01,East,Initech,Books,4616.91,625.36
+2020-09-05,North,Wonka Co.,Electronics,247.71,17.63
+2024-02-24,East,Umbrella,Groceries,3667.43,281.28
+2023-07-08,East,Cyberdyne,Books,1012.45,185.97
+2019-05-28,West,Initech,Books,3340.22,376.23
+2020-04-05,West,Cyberdyne,Electronics,4357.95,1224.95
+2021-04-13,East,Wonka Co.,Groceries,2107.43,129.23
+2021-12-05,West,Initech,Clothing,4616.04,489.4
+2024-10-06,West,Umbrella,Clothing,1359.86,258.5
+2019-07-29,West,Initech,Groceries,186.88,55.12
+2021-03-04,East,Wayne Enterprises,Clothing,471.0,138.46
+2024-09-11,East,Wonka Co.,Groceries,411.63,81.57
+2021-04-10,North,Umbrella,Electronics,2918.46,157.17
+2024-05-07,East,Initech,Groceries,219.48,63.49
+2024-03-13,North,Acme Corp,Clothing,2160.11,507.68
+2021-06-27,North,Globex,Groceries,3416.32,919.17
+2024-05-13,East,Cyberdyne,Groceries,751.89,174.44
+2021-11-24,West,Wayne Enterprises,Groceries,4322.91,740.9
+2023-01-07,South,Globex,Clothing,1132.47,167.11
+2025-05-24,East,Wayne Enterprises,Electronics,4024.89,383.36
+2021-11-19,North,Stark Inc.,Books,4963.46,864.41
+2019-05-14,East,Stark Inc.,Groceries,1986.11,110.61
+2020-01-12,North,Wonka Co.,Electronics,1412.11,107.85
+2025-01-10,South,Umbrella,Groceries,3926.6,867.1
+2023-11-08,East,Acme Corp,Groceries,4751.44,827.06
+2021-10-26,West,Globex,Furniture,2724.48,173.71
+2021-02-26,West,Umbrella,Electronics,2069.81,282.15
+2023-07-16,North,Acme Corp,Clothing,3033.02,849.12
+2020-09-16,West,Stark Inc.,Furniture,2560.4,346.52
+2020-06-16,North,Initech,Groceries,1725.56,310.34
+2022-02-05,South,Cyberdyne,Electronics,4489.19,318.3
+2019-05-27,East,Wonka Co.,Books,2726.66,379.66
+2020-04-05,West,Cyberdyne,Groceries,1750.0,239.44
+2022-02-06,West,Cyberdyne,Clothing,2587.26,699.71
+2022-04-25,North,Globex,Groceries,4290.55,908.09
+2019-11-10,East,Cyberdyne,Clothing,4240.65,647.43
+2021-04-01,North,Stark Inc.,Groceries,2237.29,543.82
+2024-05-01,North,Wayne Enterprises,Clothing,4575.29,637.01
+2021-11-28,East,Initech,Groceries,953.05,285.24
+2025-11-06,North,Cyberdyne,Furniture,1308.28,154.44
+2020-02-27,North,Cyberdyne,Clothing,3352.67,859.9
+2021-08-07,East,Stark Inc.,Electronics,2846.55,325.61
+2022-11-01,West,Stark Inc.,Electronics,4284.5,596.46
+2021-04-05,South,Umbrella,Books,4893.87,1340.91
+2021-09-22,East,Wayne Enterprises,Groceries,741.61,96.91
+2019-01-20,West,Wonka Co.,Clothing,1115.27,254.66
+2023-05-07,West,Globex,Electronics,3907.08,468.33
+2020-08-10,South,Globex,Electronics,3271.66,617.99
+2025-08-28,West,Globex,Furniture,3923.2,621.14
+2019-02-16,North,Globex,Clothing,177.08,37.14
+2025-09-26,North,Cyberdyne,Clothing,3140.27,743.24
+2021-06-23,East,Acme Corp,Electronics,230.55,54.28
+2025-01-03,East,Cyberdyne,Groceries,2880.75,751.07
+2023-08-06,West,Cyberdyne,Groceries,4594.32,627.33
+2023-05-18,East,Globex,Electronics,868.02,196.03
+2019-09-03,West,Initech,Furniture,1618.0,437.87
+2020-06-27,East,Wayne Enterprises,Groceries,760.06,157.15
+2022-11-25,West,Cyberdyne,Furniture,1129.32,223.34
+2022-10-10,South,Umbrella,Furniture,4381.02,432.47
+2022-01-09,East,Acme Corp,Books,1386.14,116.2
+2020-04-30,West,Wonka Co.,Books,281.52,19.71
+2023-08-12,East,Globex,Books,2821.48,179.73
+2020-05-25,East,Wonka Co.,Groceries,4220.3,1089.45
+2019-06-09,West,Umbrella,Clothing,595.23,128.0
+2024-12-26,South,Acme Corp,Groceries,2966.65,186.9
+2025-02-28,East,Globex,Books,1294.04,94.96
+2020-11-18,South,Globex,Books,3144.7,864.64
+2023-12-24,North,Cyberdyne,Furniture,4940.97,588.19
+2024-10-01,East,Wayne Enterprises,Furniture,857.41,191.03
+2023-08-04,North,Initech,Books,985.37,90.15
+2020-11-14,South,Wonka Co.,Books,1250.05,344.82
+2021-11-01,West,Wonka Co.,Groceries,4815.44,1252.66
+2022-05-16,South,Acme Corp,Groceries,4589.76,1349.37
+2025-06-22,South,Globex,Books,218.66,13.65
+2020-07-11,South,Cyberdyne,Books,1265.08,86.9
+2024-06-02,West,Wayne Enterprises,Furniture,2116.06,385.89
+2021-02-02,South,Wonka Co.,Books,994.56,74.01
+2022-05-07,South,Globex,Clothing,1656.75,132.06
+2019-05-03,North,Initech,Books,1209.17,340.1
+2020-10-16,East,Globex,Furniture,1404.09,202.27
+2025-03-09,East,Initech,Groceries,4474.81,467.51
+2019-06-08,East,Stark Inc.,Furniture,1285.13,267.1
+2023-09-30,South,Acme Corp,Books,3419.74,415.56
+2023-12-25,East,Wonka Co.,Books,3659.43,319.77
+2024-04-20,North,Wonka Co.,Furniture,2151.24,372.55
+2024-04-30,East,Globex,Groceries,4597.25,1239.12
+2022-09-10,North,Globex,Electronics,2850.15,503.77
+2025-06-16,East,Initech,Books,556.01,93.52
+2021-07-26,South,Globex,Books,1953.73,391.05
+2024-11-14,North,Cyberdyne,Furniture,1375.53,185.85
+2025-08-06,East,Acme Corp,Books,3530.84,1048.28
+2025-09-23,North,Umbrella,Groceries,3684.43,344.82
+2021-12-28,West,Acme Corp,Books,174.71,19.26
+2025-03-31,North,Cyberdyne,Books,4609.29,304.7
+2021-10-01,West,Stark Inc.,Furniture,1324.29,229.63
+2019-07-11,South,Stark Inc.,Clothing,328.72,87.22
+2020-08-28,West,Umbrella,Books,3080.32,187.37
+2022-04-23,East,Initech,Clothing,2558.75,546.55
+2023-07-04,South,Acme Corp,Clothing,1029.54,149.34
+2024-08-12,East,Wayne Enterprises,Electronics,782.23,137.11
+2023-12-12,North,Initech,Groceries,2782.6,578.28
+2020-06-16,West,Initech,Electronics,896.54,99.0
+2023-07-20,North,Wayne Enterprises,Clothing,2212.35,194.51
+2024-08-01,West,Stark Inc.,Furniture,1034.59,195.63
+2022-07-22,North,Wonka Co.,Groceries,2741.48,810.5
+2025-01-01,North,Wayne Enterprises,Electronics,2983.1,337.23
+2022-01-05,West,Initech,Books,3943.84,443.68
+2022-03-30,East,Umbrella,Electronics,3024.47,598.91
+2022-03-27,South,Cyberdyne,Furniture,1010.76,93.82
+2022-11-21,West,Umbrella,Furniture,3686.17,919.72
+2023-05-24,West,Globex,Electronics,834.0,223.27
+2023-12-04,West,Umbrella,Groceries,3204.08,599.56
+2019-07-21,North,Umbrella,Furniture,2581.62,140.53
+2020-02-02,West,Umbrella,Groceries,4272.73,1180.8
+2024-11-30,North,Acme Corp,Furniture,1493.54,314.61
+2020-10-15,East,Stark Inc.,Clothing,3879.07,442.22
+2022-04-11,North,Stark Inc.,Books,4559.74,459.34
+2025-11-10,North,Wonka Co.,Books,3469.15,928.05
+2021-11-13,West,Cyberdyne,Groceries,1031.28,251.66
+2020-09-12,West,Umbrella,Groceries,4638.68,379.88
+2020-06-09,East,Cyberdyne,Books,3892.64,387.42
+2025-03-03,West,Acme Corp,Groceries,3108.19,614.04
+2024-11-13,East,Initech,Electronics,4242.91,302.44
+2021-03-10,South,Globex,Furniture,3492.05,821.25
+2022-03-23,East,Umbrella,Books,2316.58,488.48
+2024-01-21,North,Wayne Enterprises,Furniture,2291.05,231.41
+2023-04-15,West,Acme Corp,Electronics,852.65,247.85
+2019-08-24,North,Wayne Enterprises,Furniture,3195.79,653.13
+2025-09-30,South,Umbrella,Furniture,1025.18,250.52
+2023-09-11,West,Acme Corp,Groceries,339.89,57.74
+2022-07-24,East,Cyberdyne,Groceries,1425.37,321.86
+2022-03-29,North,Wayne Enterprises,Furniture,4960.33,523.05
+2025-09-19,East,Cyberdyne,Furniture,242.6,29.34
+2025-01-25,North,Cyberdyne,Groceries,3875.61,797.31
+2020-07-31,North,Wayne Enterprises,Clothing,4688.45,1158.36
+2024-12-25,East,Umbrella,Books,799.08,198.49
+2022-10-01,North,Wonka Co.,Groceries,222.94,45.02
+2020-05-12,South,Initech,Groceries,177.06,48.45
+2022-07-19,North,Umbrella,Groceries,1181.77,248.11
+2025-03-26,West,Initech,Clothing,382.66,47.5
+2022-02-05,South,Acme Corp,Clothing,2690.4,690.42
+2019-06-16,North,Acme Corp,Books,273.07,20.44
+2023-08-17,North,Initech,Books,834.97,231.72
+2024-09-26,North,Initech,Books,1394.52,77.8
+2021-11-25,West,Wonka Co.,Books,2558.6,225.51
+2019-04-17,North,Wayne Enterprises,Furniture,3237.78,585.4
+2024-12-09,South,Wayne Enterprises,Electronics,427.54,40.52
+2020-02-21,South,Globex,Clothing,3673.1,300.61
+2021-01-27,North,Initech,Books,772.94,41.51
+2019-07-17,North,Stark Inc.,Clothing,4238.77,1065.68
+2021-01-27,North,Wonka Co.,Furniture,193.59,44.97
+2019-12-29,South,Acme Corp,Groceries,913.23,128.22
+2022-05-10,West,Wayne Enterprises,Electronics,1926.23,467.06
+2021-11-01,West,Wayne Enterprises,Furniture,2798.3,762.69
+2023-10-12,East,Wonka Co.,Furniture,906.91,116.1
+2021-05-30,West,Cyberdyne,Electronics,2919.76,318.65
+2025-02-05,West,Initech,Books,3019.95,504.01
+2024-05-15,North,Initech,Groceries,4028.67,223.25
+2019-12-06,South,Wayne Enterprises,Books,3901.76,939.66
+2024-05-28,South,Cyberdyne,Books,4710.62,1379.72
+2020-09-29,West,Acme Corp,Books,1774.21,399.2
+2022-06-03,East,Wayne Enterprises,Furniture,4361.88,1127.22
+2021-03-07,East,Umbrella,Groceries,2614.67,157.83
+2020-05-30,South,Initech,Electronics,1507.95,187.94
+2022-12-28,South,Globex,Groceries,4478.76,910.55
+2024-07-17,North,Wonka Co.,Electronics,2122.84,403.42
+2024-10-27,South,Stark Inc.,Books,4205.67,281.53
+2020-07-20,West,Acme Corp,Books,2240.73,174.47
+2019-12-17,South,Stark Inc.,Books,1752.91,471.08
+2023-06-09,South,Acme Corp,Books,3358.64,389.44
+2020-10-31,North,Stark Inc.,Electronics,1718.26,131.94
+2020-01-19,South,Wayne Enterprises,Clothing,4842.91,1240.41
+2022-07-30,East,Cyberdyne,Books,422.55,47.65
+2022-10-21,West,Globex,Clothing,1370.11,347.05
+2019-07-15,South,Stark Inc.,Furniture,3521.47,1021.12
+2024-06-15,North,Acme Corp,Books,578.72,155.72
+2024-07-01,West,Wayne Enterprises,Groceries,1337.02,86.53
+2025-05-29,East,Umbrella,Electronics,1911.51,371.32
+2025-12-12,North,Stark Inc.,Groceries,1390.76,399.42
+2020-12-24,East,Cyberdyne,Electronics,325.67,48.18
+2020-02-28,West,Stark Inc.,Electronics,2268.74,140.1
+2022-10-21,West,Acme Corp,Groceries,4726.39,323.33
+2020-04-27,East,Initech,Clothing,2121.89,591.4
+2019-03-31,West,Acme Corp,Electronics,2688.25,269.92
+2019-06-27,South,Acme Corp,Groceries,2857.61,656.79
+2023-12-29,South,Acme Corp,Furniture,4263.24,722.49
+2020-02-11,South,Globex,Groceries,1854.02,224.39
+2023-11-14,North,Globex,Groceries,1279.37,206.72
+2024-04-02,West,Umbrella,Furniture,3443.68,352.58
+2024-04-23,South,Globex,Furniture,113.49,17.85
+2024-06-04,East,Acme Corp,Groceries,1410.02,355.73
+2021-08-25,West,Cyberdyne,Clothing,3119.06,285.07
+2022-01-26,North,Wayne Enterprises,Clothing,1606.67,88.85
+2025-06-07,North,Stark Inc.,Electronics,1982.36,99.5
+2022-10-28,North,Stark Inc.,Electronics,1007.84,199.42
+2023-08-31,North,Globex,Clothing,4365.18,591.65
+2022-10-20,East,Umbrella,Clothing,2898.49,753.99
+2019-11-18,East,Wayne Enterprises,Books,2115.66,387.52
+2020-01-12,West,Initech,Electronics,4689.45,1196.42
+2022-01-17,South,Cyberdyne,Electronics,4276.13,1128.74
+2025-07-07,West,Stark Inc.,Groceries,4808.69,783.93
+2023-03-14,North,Cyberdyne,Furniture,1902.36,493.93
+2020-08-25,South,Initech,Groceries,1607.06,310.68
+2024-03-13,East,Cyberdyne,Electronics,3711.09,1056.69
+2022-09-29,East,Umbrella,Groceries,4952.69,535.16
+2019-01-09,South,Acme Corp,Groceries,2084.62,213.79
+2025-06-09,West,Acme Corp,Clothing,2378.96,367.59
+2020-06-17,East,Stark Inc.,Electronics,4084.17,840.27
+2023-12-13,West,Acme Corp,Groceries,2288.91,236.37
+2025-08-16,South,Stark Inc.,Books,3163.73,326.57
+2023-03-25,North,Cyberdyne,Clothing,1214.31,307.18
+2022-09-28,West,Globex,Books,227.53,63.32
+2020-05-26,East,Initech,Electronics,3272.01,364.26
+2025-05-30,East,Cyberdyne,Books,726.87,88.36
+2023-11-06,East,Cyberdyne,Electronics,3189.96,613.93
+2021-08-17,West,Acme Corp,Books,1433.98,359.98
+2022-05-10,West,Umbrella,Clothing,4451.74,1207.3
+2022-10-06,West,Cyberdyne,Books,4366.23,625.6
+2023-03-05,North,Umbrella,Furniture,1944.5,576.73
+2024-05-31,South,Globex,Clothing,4290.82,1204.59
+2022-08-25,South,Acme Corp,Groceries,388.36,33.92
+2024-04-01,East,Cyberdyne,Groceries,3444.71,439.96
+2020-09-07,West,Wayne Enterprises,Groceries,3134.5,770.9
+2023-04-24,North,Wayne Enterprises,Furniture,4387.28,1113.92
+2023-11-07,West,Cyberdyne,Clothing,3811.78,281.65
+2021-12-04,West,Cyberdyne,Groceries,2188.12,483.27
+2020-09-17,North,Wayne Enterprises,Clothing,571.1,140.6
+2020-04-05,South,Acme Corp,Books,4866.35,1167.57
+2022-11-24,East,Umbrella,Clothing,4821.87,1345.79
+2025-03-14,South,Stark Inc.,Clothing,1434.33,140.55
+2024-07-29,South,Stark Inc.,Books,770.23,191.2
+2023-08-21,West,Acme Corp,Furniture,2059.59,582.26
+2022-11-13,North,Cyberdyne,Clothing,708.43,106.48
+2025-11-28,East,Wonka Co.,Electronics,4154.29,235.41
+2022-01-06,East,Acme Corp,Books,1590.48,166.47
+2024-02-12,West,Acme Corp,Books,1321.48,337.68
+2024-08-29,East,Wayne Enterprises,Clothing,3521.03,1014.32
+2019-05-25,East,Wonka Co.,Clothing,4929.52,395.78
+2024-11-28,South,Wayne Enterprises,Groceries,787.41,57.42
+2020-07-10,South,Globex,Clothing,4525.02,941.73
+2021-10-20,South,Acme Corp,Books,775.25,92.15
+2020-02-06,South,Wayne Enterprises,Clothing,3438.87,350.6
+2022-04-09,North,Initech,Electronics,1422.0,208.36
+2021-04-09,North,Globex,Furniture,3315.47,743.15
+2024-07-21,North,Acme Corp,Clothing,2521.76,511.03
+2019-12-01,East,Cyberdyne,Electronics,348.6,17.67
+2023-09-27,West,Wayne Enterprises,Books,3829.07,195.28
+2020-10-18,South,Umbrella,Electronics,2603.59,490.97
+2022-02-16,West,Wonka Co.,Electronics,2639.92,433.21
+2022-10-27,North,Stark Inc.,Clothing,353.1,73.13
+2022-11-15,North,Globex,Groceries,3882.08,295.66
+2020-11-12,West,Wayne Enterprises,Books,2278.3,683.34
+2025-10-03,East,Umbrella,Electronics,788.88,140.57
+2020-08-24,East,Cyberdyne,Groceries,432.32,88.23
+2022-05-14,South,Umbrella,Clothing,2364.91,458.26
+2025-12-18,West,Cyberdyne,Books,915.0,65.69
+2019-03-27,South,Wonka Co.,Books,3385.43,774.05
+2020-03-07,East,Stark Inc.,Clothing,1622.7,410.22
+2023-05-01,East,Acme Corp,Groceries,4853.9,676.21
+2021-03-03,West,Wayne Enterprises,Electronics,4165.37,235.71
+2019-10-03,East,Globex,Furniture,1727.01,492.39
+2024-01-08,East,Stark Inc.,Books,4579.47,338.73
+2019-10-31,East,Globex,Electronics,1144.3,174.9
+2025-10-23,North,Acme Corp,Books,2471.48,520.36
+2022-03-27,East,Initech,Books,4087.05,651.46
+2022-10-22,West,Wonka Co.,Books,2643.85,713.73
+2021-05-24,East,Stark Inc.,Electronics,2548.01,652.93
+2022-12-29,East,Cyberdyne,Groceries,2611.73,633.29
+2024-07-08,East,Initech,Electronics,2863.03,788.97
+2019-04-25,South,Stark Inc.,Electronics,2306.82,660.94
+2020-04-25,South,Cyberdyne,Furniture,3088.29,248.43
+2020-03-10,East,Wonka Co.,Furniture,3673.43,893.16
+2021-03-23,North,Cyberdyne,Groceries,3197.32,857.75
+2025-06-25,East,Stark Inc.,Electronics,1607.38,98.18
+2019-06-07,South,Initech,Groceries,2032.47,306.43
+2025-03-18,East,Umbrella,Electronics,2615.62,367.41
+2022-12-22,South,Cyberdyne,Groceries,1519.72,189.21
+2025-03-09,South,Wayne Enterprises,Furniture,2026.31,430.48
+2024-02-08,North,Initech,Groceries,1597.52,185.06
+2025-03-09,East,Wayne Enterprises,Clothing,4518.73,272.72
+2022-10-19,East,Wonka Co.,Books,3661.16,796.78
+2022-05-20,West,Globex,Books,4784.07,450.09
+2025-11-06,North,Cyberdyne,Electronics,3757.27,944.33
+2023-06-28,North,Globex,Groceries,1993.49,250.55
+2025-01-10,West,Wonka Co.,Books,1626.21,200.35
+2024-03-28,East,Umbrella,Groceries,2931.82,371.02
+2021-06-19,South,Acme Corp,Electronics,2778.7,807.46
+2024-11-05,West,Umbrella,Electronics,4242.71,1063.82
+2021-04-23,South,Globex,Clothing,3993.89,226.4
+2025-05-11,East,Globex,Clothing,2579.73,393.78
+2020-03-08,West,Stark Inc.,Clothing,3494.12,737.0
+2023-04-10,East,Initech,Groceries,1231.08,126.24
+2022-09-28,West,Globex,Furniture,3329.41,378.15
+2020-08-11,North,Globex,Books,1084.25,312.43
+2024-12-08,West,Wonka Co.,Books,2849.92,304.65
+2023-08-18,West,Wayne Enterprises,Clothing,755.51,186.92
+2021-03-09,West,Initech,Electronics,511.71,138.61
+2021-09-17,East,Globex,Books,241.27,31.76
+2020-05-09,East,Acme Corp,Furniture,422.53,102.16
+2021-02-02,East,Wayne Enterprises,Books,1983.82,311.44
+2023-08-05,East,Globex,Electronics,3269.66,495.29
+2020-01-09,West,Initech,Furniture,3169.26,704.09
+2019-11-19,West,Stark Inc.,Furniture,4573.46,596.6
+2023-05-30,South,Wonka Co.,Clothing,1974.33,510.94
+2023-07-30,East,Initech,Furniture,4921.93,513.89
+2023-05-18,South,Globex,Groceries,2754.45,749.25
+2020-05-04,North,Cyberdyne,Furniture,400.53,103.91
+2019-05-28,North,Stark Inc.,Groceries,3412.94,795.17
+2021-04-19,North,Globex,Electronics,3023.52,807.42
+2020-11-25,West,Acme Corp,Clothing,3316.84,512.04
+2023-05-15,West,Acme Corp,Books,1326.1,365.53
+2019-02-16,North,Wonka Co.,Furniture,706.94,178.09
+2021-02-17,East,Stark Inc.,Groceries,2034.18,541.6
+2025-04-14,West,Cyberdyne,Books,3250.71,398.85
+2019-02-17,North,Initech,Furniture,1863.8,533.38
+2023-09-02,South,Umbrella,Electronics,3787.54,913.92
+2023-04-21,West,Wonka Co.,Books,2043.07,141.53
+2021-07-01,South,Wonka Co.,Groceries,4607.43,1249.83
+2023-02-15,South,Acme Corp,Books,3234.58,329.62
+2020-04-05,East,Acme Corp,Electronics,1428.63,146.28
+2022-04-04,East,Wonka Co.,Groceries,3822.46,253.27
+2019-08-23,East,Globex,Furniture,3984.83,909.13
+2019-10-12,West,Stark Inc.,Furniture,2506.82,596.43
+2025-08-26,West,Wayne Enterprises,Groceries,599.79,130.8
+2022-11-09,North,Initech,Books,2171.7,402.42
+2023-08-30,North,Acme Corp,Groceries,3536.91,871.48
+2020-02-23,West,Umbrella,Books,682.39,52.96
+2025-12-31,East,Stark Inc.,Electronics,4615.3,708.77
+2019-04-19,North,Acme Corp,Clothing,1106.82,213.16
+2024-12-19,South,Acme Corp,Books,3099.99,716.15
+2023-09-02,North,Stark Inc.,Groceries,427.15,33.8
+2023-10-19,South,Initech,Electronics,2179.73,466.38
+2024-06-21,West,Wayne Enterprises,Books,206.84,40.09
+2023-12-23,East,Umbrella,Clothing,1214.42,78.61
+2024-09-02,West,Umbrella,Groceries,2706.94,697.36
+2025-11-07,South,Umbrella,Clothing,390.57,90.41
+2021-01-07,South,Initech,Furniture,4510.91,264.58
+2023-03-07,East,Umbrella,Clothing,3392.53,979.03
+2025-01-09,East,Stark Inc.,Furniture,2282.44,564.88
+2021-08-26,West,Wonka Co.,Groceries,3257.64,220.87
+2021-06-14,South,Umbrella,Books,3768.03,270.27
+2023-12-16,North,Wonka Co.,Electronics,2452.39,333.65
+2023-03-11,North,Umbrella,Clothing,257.8,49.68
+2023-01-11,East,Umbrella,Furniture,4037.87,347.53
+2022-12-22,South,Cyberdyne,Books,3459.67,584.97
+2025-05-17,South,Initech,Books,3623.54,1076.06
+2022-07-22,North,Initech,Electronics,2546.55,155.15
+2022-08-10,East,Stark Inc.,Books,3797.36,282.45
+2022-05-01,East,Wayne Enterprises,Groceries,922.7,160.68
+2022-10-23,South,Wonka Co.,Clothing,3793.51,1044.73
+2020-06-06,East,Wonka Co.,Clothing,3223.78,447.59
+2025-06-18,East,Wayne Enterprises,Furniture,3772.04,314.42
+2021-09-10,South,Stark Inc.,Groceries,1797.73,240.78
+2025-12-05,East,Umbrella,Electronics,2458.17,329.77
+2019-07-28,West,Umbrella,Books,2304.97,628.6
+2019-04-10,West,Cyberdyne,Books,2809.53,408.87
+2022-02-04,South,Wonka Co.,Electronics,332.09,19.23
+2024-05-19,South,Initech,Furniture,4531.03,1150.68
+2023-06-17,East,Initech,Groceries,4012.41,528.33
+2022-03-30,South,Wonka Co.,Clothing,2635.73,498.76
+2025-11-02,West,Cyberdyne,Groceries,730.14,81.96
+2020-12-06,North,Wayne Enterprises,Clothing,4162.1,478.99
+2022-01-31,West,Umbrella,Clothing,3503.05,724.69
+2019-01-21,West,Initech,Furniture,3781.43,902.47
+2023-05-16,West,Globex,Electronics,3645.85,606.8
+2021-06-20,North,Acme Corp,Furniture,4883.11,869.21
+2020-07-24,West,Wayne Enterprises,Books,3064.93,866.25
+2024-08-31,East,Initech,Furniture,2223.79,387.82
+2022-10-31,West,Wayne Enterprises,Groceries,959.93,204.45
+2025-04-27,West,Stark Inc.,Furniture,721.88,76.8
+2022-12-26,South,Globex,Clothing,1773.91,178.59
+2023-12-31,West,Wayne Enterprises,Books,4707.58,1117.56
+2021-03-29,South,Acme Corp,Clothing,3088.66,403.26
+2019-01-19,South,Globex,Books,3694.94,877.89
+2020-06-24,East,Cyberdyne,Electronics,4182.57,1108.36
+2022-06-02,West,Stark Inc.,Electronics,3528.74,202.04
+2021-05-18,West,Initech,Electronics,4066.96,652.65
+2024-01-09,South,Initech,Clothing,2010.02,116.82
+2025-04-09,East,Umbrella,Electronics,2953.15,806.21
+2023-11-14,North,Cyberdyne,Electronics,2229.37,265.58
+2022-08-12,East,Wonka Co.,Books,401.82,53.26
+2019-06-20,East,Wonka Co.,Books,262.98,18.24
+2021-02-28,South,Initech,Groceries,4565.05,453.07
+2019-11-02,East,Initech,Books,2672.71,692.31
+2022-01-25,West,Initech,Electronics,326.15,89.87
+2023-09-19,South,Stark Inc.,Furniture,333.04,31.96
+2019-07-31,South,Stark Inc.,Furniture,4965.93,1316.16
+2024-05-04,West,Acme Corp,Books,3097.92,297.99
+2019-06-23,East,Wonka Co.,Furniture,1437.73,295.74
+2025-03-15,North,Wonka Co.,Books,3587.12,1003.38
+2023-07-22,West,Wonka Co.,Furniture,671.89,33.74
+2025-10-05,South,Cyberdyne,Books,877.32,155.28
+2023-01-07,West,Acme Corp,Electronics,593.86,75.19
+2020-09-03,North,Initech,Books,4503.07,930.85
+2023-09-17,South,Stark Inc.,Groceries,4621.66,942.94
+2025-04-13,East,Wonka Co.,Groceries,1027.63,283.25
+2019-04-04,East,Umbrella,Furniture,2701.89,668.47
+2024-05-12,West,Wayne Enterprises,Furniture,3848.53,966.81
+2020-10-14,East,Wonka Co.,Books,599.65,127.49
+2022-05-28,West,Wayne Enterprises,Furniture,4552.7,1307.05
+2025-04-17,West,Umbrella,Electronics,2141.98,482.31
+2024-10-02,South,Globex,Books,4913.85,539.28
+2024-10-14,South,Umbrella,Groceries,4560.75,1110.7
+2021-12-21,East,Initech,Clothing,2115.08,593.07
+2022-07-30,West,Wonka Co.,Groceries,2772.96,500.48
+2022-11-13,East,Wonka Co.,Electronics,2062.09,217.82
+2020-08-24,South,Umbrella,Groceries,4721.55,779.02
+2025-06-10,South,Wayne Enterprises,Electronics,4691.69,864.62
+2024-01-28,South,Cyberdyne,Electronics,3053.13,618.82
+2023-04-05,West,Wayne Enterprises,Books,603.64,158.13
+2021-09-22,West,Acme Corp,Clothing,4109.95,260.0
+2023-11-07,West,Wonka Co.,Clothing,1828.97,464.01
+2025-10-19,West,Wayne Enterprises,Furniture,3341.55,709.95
+2022-01-20,North,Cyberdyne,Furniture,3243.77,582.08
+2021-10-29,West,Globex,Electronics,320.23,22.69
+2019-08-30,West,Initech,Books,337.97,35.97
+2024-03-18,East,Wayne Enterprises,Clothing,1285.73,350.84
+2019-07-23,West,Initech,Books,1793.68,521.01
+2023-05-25,East,Globex,Furniture,1638.19,242.24
+2020-01-27,South,Cyberdyne,Clothing,4736.47,1007.4
+2025-09-07,South,Initech,Electronics,4702.75,1228.79
+2024-01-04,South,Initech,Books,2583.45,566.18
+2025-12-25,South,Wayne Enterprises,Books,258.08,46.32
+2023-09-05,North,Initech,Groceries,4204.35,1082.33
+2024-04-22,South,Cyberdyne,Clothing,4857.31,943.65
+2025-01-26,North,Initech,Books,1246.63,355.51
+2025-06-02,West,Wonka Co.,Books,1229.25,315.11
+2020-11-15,West,Initech,Books,2081.92,399.57
+2020-10-26,West,Cyberdyne,Books,2688.06,141.85
+2019-07-30,North,Cyberdyne,Furniture,2139.76,249.64
+2024-03-13,West,Initech,Groceries,4701.33,567.38
+2023-12-16,North,Cyberdyne,Books,3557.4,506.47
+2019-09-29,South,Cyberdyne,Electronics,2541.19,542.55
+2025-12-12,North,Wayne Enterprises,Furniture,3759.35,714.12
+2021-02-23,West,Wonka Co.,Books,3607.68,521.03
+2021-12-05,South,Cyberdyne,Groceries,1376.64,145.61
+2024-07-25,South,Umbrella,Electronics,405.35,109.39
+2020-10-03,West,Umbrella,Books,4607.08,321.24
+2022-09-20,West,Wayne Enterprises,Electronics,3382.46,814.89
+2019-10-28,West,Wonka Co.,Electronics,1617.0,302.58
+2025-04-04,East,Globex,Electronics,2570.45,674.1
+2024-06-30,East,Cyberdyne,Electronics,3534.39,733.05
+2021-04-26,South,Initech,Groceries,1328.3,356.32
+2022-08-13,North,Globex,Books,2064.61,252.38
+2025-01-26,West,Acme Corp,Electronics,1665.08,336.07
+2021-10-02,West,Initech,Electronics,3716.48,1047.4
+2025-08-27,South,Stark Inc.,Groceries,1205.44,339.22
+2019-03-05,East,Wayne Enterprises,Furniture,2994.79,888.37
+2022-03-21,North,Wonka Co.,Electronics,286.14,26.73
+2024-04-21,West,Wonka Co.,Books,1397.81,176.05
+2022-09-17,East,Umbrella,Electronics,3430.0,468.13
+2020-11-06,East,Stark Inc.,Books,745.27,162.63
+2021-07-12,West,Globex,Books,4970.5,949.5
+2020-05-17,East,Globex,Books,4496.58,968.38
+2024-07-10,South,Initech,Furniture,990.8,264.19
+2024-06-30,East,Initech,Clothing,3904.62,952.37
+2025-09-09,South,Initech,Groceries,4544.03,807.08
+2023-04-04,West,Globex,Electronics,3961.95,678.6
+2019-01-24,South,Stark Inc.,Books,678.19,104.67
+2022-08-23,West,Globex,Books,3585.01,260.85
+2020-11-02,East,Wayne Enterprises,Clothing,1192.91,348.51
+2021-05-15,West,Wonka Co.,Groceries,2313.02,200.78
+2024-10-09,East,Wayne Enterprises,Electronics,3794.17,384.46
+2021-09-28,North,Wonka Co.,Clothing,4863.01,576.64
+2019-06-10,North,Umbrella,Clothing,3436.92,819.3
+2020-04-17,South,Wayne Enterprises,Groceries,3444.72,908.41
+2025-01-05,South,Cyberdyne,Books,3364.17,201.94
+2021-08-01,South,Initech,Books,3960.52,737.74
+2025-01-19,East,Acme Corp,Groceries,2299.55,204.96
+2022-10-17,East,Wayne Enterprises,Electronics,414.14,118.88
+2023-08-26,West,Wayne Enterprises,Groceries,3343.04,479.41
+2023-02-04,East,Globex,Books,3483.05,851.48
+2023-07-09,South,Wayne Enterprises,Electronics,2246.96,156.85
+2025-05-10,West,Umbrella,Furniture,4066.66,231.82
+2021-04-20,West,Initech,Books,2351.9,294.33
+2024-04-14,West,Stark Inc.,Furniture,423.54,22.69
+2025-09-20,West,Wonka Co.,Electronics,2958.17,339.01
+2020-05-08,South,Acme Corp,Clothing,3953.68,821.8
+2023-08-20,East,Wonka Co.,Clothing,2641.34,547.09
+2021-02-18,West,Acme Corp,Electronics,1768.99,309.67
+2022-11-26,East,Wonka Co.,Clothing,457.91,58.29
+2023-10-05,East,Stark Inc.,Electronics,3523.19,640.92
+2023-01-30,West,Stark Inc.,Clothing,508.29,126.18
+2025-05-09,East,Initech,Books,3521.39,224.34
+2022-12-04,North,Stark Inc.,Groceries,208.64,33.52
+2022-03-14,West,Wonka Co.,Groceries,4311.18,718.68
+2024-06-12,South,Wonka Co.,Electronics,4151.22,768.42
+2025-01-25,East,Cyberdyne,Books,995.96,105.39
+2020-12-11,East,Wayne Enterprises,Books,3398.78,450.4
+2019-11-21,West,Wonka Co.,Books,1408.11,108.34
+2023-04-26,West,Initech,Electronics,4707.82,874.02
+2024-09-27,North,Acme Corp,Electronics,715.99,38.17
+2020-08-14,North,Umbrella,Electronics,1055.72,167.81
+2021-11-04,North,Initech,Electronics,2823.49,781.17
+2019-09-07,North,Globex,Books,2973.48,459.35
+2023-07-22,South,Umbrella,Groceries,1227.46,121.13
+2023-11-29,North,Stark Inc.,Groceries,1246.37,131.81
+2020-04-18,South,Wonka Co.,Electronics,3219.19,863.39
+2021-03-02,North,Globex,Furniture,2076.03,403.98
+2022-10-05,South,Globex,Clothing,3855.69,904.65
+2025-06-25,East,Globex,Clothing,1626.42,287.17
+2022-09-20,East,Globex,Groceries,3337.77,984.32
+2023-04-01,East,Cyberdyne,Groceries,1731.1,187.51
+2019-08-04,South,Wayne Enterprises,Groceries,2206.97,150.63
+2024-03-13,North,Stark Inc.,Electronics,3163.84,825.12
+2020-01-29,North,Acme Corp,Groceries,355.29,41.0
+2024-02-13,North,Stark Inc.,Electronics,1419.64,144.91
+2020-03-29,North,Cyberdyne,Electronics,3466.63,466.89
+2020-04-04,West,Initech,Clothing,4038.05,1115.85
+2019-08-06,South,Cyberdyne,Groceries,1242.84,237.4
+2020-02-25,East,Wayne Enterprises,Furniture,3752.44,705.13
+2020-06-14,South,Acme Corp,Clothing,4228.63,600.08
+2023-07-30,East,Acme Corp,Books,1219.94,331.9
+2021-07-07,North,Acme Corp,Books,3509.75,973.85
+2022-10-29,North,Stark Inc.,Furniture,662.15,108.98
+2022-09-10,South,Initech,Books,4702.75,633.44
+2020-05-10,East,Globex,Clothing,1004.26,73.34
+2024-02-23,East,Acme Corp,Electronics,4660.49,1146.09
+2024-11-18,East,Cyberdyne,Furniture,3115.89,880.22
+2023-10-03,East,Wonka Co.,Furniture,1532.93,272.96
+2025-03-28,West,Stark Inc.,Books,1324.95,377.13
+2025-08-31,West,Stark Inc.,Furniture,1098.11,260.32
+2025-02-15,East,Wonka Co.,Electronics,2363.85,610.72
+2019-02-01,West,Stark Inc.,Electronics,901.07,207.63
+2025-03-12,East,Initech,Furniture,2154.18,518.99
+2020-10-09,North,Cyberdyne,Electronics,3372.65,652.69
+2022-11-07,North,Cyberdyne,Clothing,2242.08,476.71
+2023-10-05,North,Stark Inc.,Groceries,2432.0,714.73
+2023-08-03,West,Acme Corp,Clothing,1484.03,136.02
+2023-11-17,East,Wayne Enterprises,Groceries,4336.63,684.34
+2020-04-29,East,Umbrella,Books,656.89,50.77
+2020-07-02,East,Stark Inc.,Groceries,994.33,145.48
+2024-04-09,East,Wayne Enterprises,Books,4040.83,486.22
+2021-09-10,South,Initech,Furniture,3962.34,751.2
+2019-03-12,West,Wayne Enterprises,Groceries,3705.93,265.41
+2024-08-14,South,Wayne Enterprises,Books,4687.72,818.68
+2021-11-07,West,Wayne Enterprises,Books,2285.99,491.38
+2021-05-03,East,Cyberdyne,Books,2274.92,312.29
+2023-05-05,West,Initech,Clothing,3955.27,270.0
+2021-08-11,South,Globex,Clothing,2705.42,482.23
+2024-07-26,South,Acme Corp,Electronics,3960.85,523.72
+2020-08-01,North,Umbrella,Books,1573.22,115.87
+2024-04-21,South,Wonka Co.,Electronics,2375.11,329.01
+2024-04-05,East,Stark Inc.,Furniture,704.47,63.3
+2021-05-19,East,Umbrella,Furniture,3369.03,953.72
+2023-08-23,North,Globex,Groceries,4654.8,624.14
+2021-10-23,East,Umbrella,Electronics,4266.42,837.93
+2024-08-12,North,Umbrella,Clothing,4937.53,1419.02
+2019-04-10,South,Cyberdyne,Books,1981.02,499.75
+2021-07-10,West,Initech,Clothing,1216.51,267.41
+2024-08-19,North,Umbrella,Clothing,4557.46,445.77
+2024-04-16,East,Initech,Clothing,1544.52,190.02
+2021-08-06,South,Wayne Enterprises,Electronics,4735.21,383.37
+2022-05-24,North,Wonka Co.,Groceries,2834.77,289.92
+2023-10-09,South,Acme Corp,Groceries,3614.17,606.32
+2023-02-09,North,Cyberdyne,Clothing,720.91,46.85
+2020-11-30,West,Acme Corp,Groceries,759.32,107.06
+2022-02-17,North,Umbrella,Clothing,407.46,95.57
+2020-07-26,North,Umbrella,Clothing,1302.33,71.93
+2022-09-02,East,Initech,Electronics,2339.71,170.83
+2024-09-25,East,Acme Corp,Groceries,3062.52,783.04
+2025-08-05,East,Cyberdyne,Clothing,2160.94,501.41
+2022-09-27,East,Cyberdyne,Furniture,3262.93,774.43
+2024-03-19,East,Cyberdyne,Clothing,1362.37,374.64
+2022-10-22,West,Initech,Furniture,4986.61,504.07
+2024-10-01,South,Cyberdyne,Books,2648.92,160.83
+2024-12-08,West,Stark Inc.,Groceries,4539.05,1235.21
+2019-06-21,North,Umbrella,Clothing,1772.9,447.02
+2023-06-27,East,Cyberdyne,Furniture,4902.74,1196.59
+2021-05-06,West,Wonka Co.,Electronics,2765.3,451.89
+2025-06-16,North,Globex,Books,697.15,108.88
+2025-01-08,West,Cyberdyne,Furniture,4101.58,781.91
+2022-08-10,North,Wonka Co.,Clothing,1361.11,333.29
+2020-03-16,North,Umbrella,Furniture,315.21,48.89
+2021-03-19,South,Stark Inc.,Clothing,4074.52,605.8
+2020-12-31,West,Acme Corp,Clothing,3752.32,512.61
+2025-09-10,North,Wonka Co.,Furniture,327.75,90.22
+2021-01-12,West,Initech,Furniture,4048.78,678.27
+2023-12-29,North,Globex,Furniture,1123.35,325.78
+2024-01-09,East,Wayne Enterprises,Groceries,1997.16,531.85
+2024-05-31,East,Wayne Enterprises,Groceries,2869.48,331.0
+2023-08-31,West,Wonka Co.,Furniture,1693.07,474.79
+2025-06-17,North,Wayne Enterprises,Books,388.08,75.67
+2019-03-09,North,Stark Inc.,Clothing,4306.7,1265.85
+2020-10-27,South,Cyberdyne,Furniture,1380.98,326.84
+2022-05-07,North,Wonka Co.,Furniture,4577.65,1061.62
+2020-08-14,West,Acme Corp,Electronics,1067.1,282.15
+2020-07-30,East,Wonka Co.,Clothing,3822.92,603.61
+2019-06-16,East,Initech,Clothing,1205.3,206.25
+2024-08-16,South,Cyberdyne,Clothing,677.25,155.32
+2022-03-15,North,Wayne Enterprises,Electronics,3442.07,221.01
+2024-11-01,West,Initech,Books,4403.05,862.19
+2024-10-20,South,Acme Corp,Books,2714.19,337.27
+2025-04-29,East,Wonka Co.,Furniture,1281.37,336.09
+2022-08-01,South,Acme Corp,Books,809.75,139.63
+2019-05-18,West,Wonka Co.,Books,2599.86,507.57
+2021-01-08,East,Wayne Enterprises,Electronics,4284.73,265.53
+2025-10-11,West,Wayne Enterprises,Groceries,3670.65,476.19
+2025-10-07,North,Umbrella,Groceries,742.67,185.85
+2025-11-04,South,Cyberdyne,Furniture,642.66,68.99
+2025-09-07,East,Wonka Co.,Groceries,2582.28,565.64
+2024-02-27,South,Initech,Furniture,3834.16,239.39
+2023-01-17,East,Wonka Co.,Electronics,1164.12,189.75
+2025-07-15,West,Stark Inc.,Furniture,3653.26,858.82
+2025-10-20,East,Globex,Books,2604.91,332.26
+2023-03-16,West,Globex,Books,854.71,82.73
+2025-02-03,West,Wonka Co.,Groceries,3966.24,463.32
+2022-01-31,North,Umbrella,Electronics,4576.51,278.18
+2020-05-24,West,Stark Inc.,Electronics,279.08,43.31
+2023-04-04,West,Cyberdyne,Electronics,1980.74,442.74
+2023-12-21,North,Wayne Enterprises,Books,2392.97,667.02
+2020-08-18,South,Umbrella,Furniture,611.22,180.91
+2022-01-11,South,Wayne Enterprises,Clothing,285.44,77.23
+2023-03-08,East,Acme Corp,Furniture,4080.46,650.68
+2025-10-30,West,Stark Inc.,Clothing,778.99,99.86
+2021-05-02,North,Globex,Electronics,3489.53,1029.66
+2022-06-28,West,Wonka Co.,Clothing,406.06,22.27
+2022-08-10,West,Stark Inc.,Groceries,721.3,88.95
+2024-09-22,North,Cyberdyne,Groceries,2777.27,649.46
+2022-07-21,West,Initech,Groceries,118.57,6.11
+2022-10-07,East,Stark Inc.,Groceries,2708.72,696.15
+2019-06-21,West,Umbrella,Electronics,4214.56,420.22
+2021-08-08,North,Wonka Co.,Furniture,4289.39,817.84
+2024-04-15,North,Umbrella,Groceries,975.04,183.86
+2025-08-04,North,Stark Inc.,Clothing,3517.04,366.39
+2025-11-26,West,Cyberdyne,Furniture,2704.28,628.43
+2024-04-03,North,Cyberdyne,Books,1469.31,269.47
+2023-05-25,West,Initech,Books,3982.18,449.48
+2022-12-24,East,Wayne Enterprises,Furniture,4082.38,255.14
+2025-11-04,North,Stark Inc.,Books,2352.65,130.44
+2020-01-06,South,Stark Inc.,Groceries,3050.4,180.63
+2024-12-09,West,Stark Inc.,Books,4494.62,1230.78
+2024-03-04,North,Cyberdyne,Electronics,879.77,244.42
+2025-01-09,East,Globex,Groceries,2069.01,394.35
+2025-02-11,East,Stark Inc.,Furniture,3468.49,556.16
+2024-08-04,South,Acme Corp,Books,2006.02,286.49
+2025-02-19,West,Wonka Co.,Groceries,982.1,126.04
+2020-11-19,West,Umbrella,Groceries,1562.84,202.11
+2021-09-05,East,Umbrella,Clothing,1186.15,325.74
+2019-03-23,West,Stark Inc.,Books,3196.15,452.48
+2024-08-13,North,Acme Corp,Furniture,2250.08,330.51
+2023-07-29,South,Umbrella,Books,1012.12,224.39
+2023-06-22,West,Stark Inc.,Groceries,272.44,60.17
+2024-01-28,South,Wonka Co.,Groceries,681.95,75.36
+2025-12-04,West,Cyberdyne,Books,233.64,13.22
+2022-02-14,North,Globex,Electronics,2394.04,570.15
+2019-06-03,East,Initech,Electronics,539.27,57.76
+2020-02-10,West,Globex,Books,3178.48,347.43
+2023-11-07,West,Stark Inc.,Furniture,2222.78,605.62
+2025-11-22,North,Wayne Enterprises,Books,841.59,183.13
+2023-07-06,North,Wonka Co.,Books,3381.96,663.57
+2020-04-23,North,Acme Corp,Electronics,1519.43,148.17
+2019-12-03,South,Wonka Co.,Groceries,1037.66,88.56
+2022-04-12,North,Stark Inc.,Furniture,1663.88,374.57
+2020-12-11,South,Cyberdyne,Books,4776.57,1400.27
+2021-11-19,South,Cyberdyne,Books,638.0,75.28
+2019-03-10,South,Cyberdyne,Groceries,656.76,78.63
+2021-08-24,West,Stark Inc.,Groceries,4002.81,1067.69
+2022-04-04,East,Globex,Clothing,2254.95,603.7
+2023-05-06,South,Wayne Enterprises,Groceries,4343.98,256.74
+2024-12-02,West,Cyberdyne,Furniture,1895.8,445.99
+2022-07-10,East,Umbrella,Books,484.78,31.0
+2023-05-04,North,Stark Inc.,Furniture,2297.07,535.85
+2021-10-18,North,Wonka Co.,Books,2054.26,174.71
+2024-10-23,East,Acme Corp,Furniture,3498.35,761.27
+2023-12-12,East,Acme Corp,Clothing,1171.79,59.69
+2019-03-01,East,Wonka Co.,Electronics,462.82,53.83
+2023-07-09,West,Umbrella,Furniture,559.78,162.02
+2025-11-11,West,Cyberdyne,Electronics,906.88,215.76
+2022-11-25,East,Wonka Co.,Books,2690.46,528.95
+2019-05-20,East,Wayne Enterprises,Groceries,2463.47,310.61
+2024-04-12,North,Initech,Electronics,4361.14,1166.85
+2022-02-10,West,Stark Inc.,Books,2376.54,184.65
+2019-10-10,West,Globex,Clothing,2058.34,250.32
+2019-08-03,North,Globex,Electronics,3344.81,805.85
+2022-06-15,South,Wonka Co.,Electronics,2433.75,706.62
+2022-04-09,West,Cyberdyne,Books,1200.43,258.15
+2019-09-18,East,Wonka Co.,Clothing,3431.6,309.44
+2021-05-29,West,Umbrella,Groceries,4484.49,738.53
+2019-10-26,North,Acme Corp,Furniture,1776.06,212.6
+2025-08-31,South,Acme Corp,Groceries,1370.71,187.56
+2022-11-29,North,Cyberdyne,Books,1423.34,128.31
+2020-05-15,South,Stark Inc.,Furniture,4952.27,435.27
+2019-10-03,East,Globex,Furniture,952.76,97.66
+2019-12-29,South,Cyberdyne,Books,3055.95,809.08
+2020-03-11,East,Globex,Groceries,2862.47,689.59
+2025-08-19,East,Acme Corp,Books,1876.61,412.97
+2022-03-13,West,Wonka Co.,Furniture,4310.94,816.52
+2020-12-26,West,Acme Corp,Electronics,1302.06,362.66
+2021-12-29,West,Stark Inc.,Electronics,2830.8,815.84
+2021-10-23,East,Acme Corp,Furniture,1709.58,350.02
+2023-10-18,East,Wonka Co.,Electronics,2963.1,696.78
+2025-12-14,South,Cyberdyne,Groceries,4392.75,618.14
+2019-03-30,West,Wayne Enterprises,Furniture,4112.57,649.95
+2020-11-08,West,Wonka Co.,Furniture,4706.22,1097.78
+2021-09-07,East,Globex,Groceries,4098.85,802.01
+2021-06-24,West,Initech,Groceries,4688.24,957.16
+2020-07-09,West,Stark Inc.,Clothing,3873.31,950.45
+2024-12-08,East,Acme Corp,Electronics,2251.02,125.91
+2020-03-27,South,Umbrella,Books,4207.03,641.2
+2023-08-01,West,Wayne Enterprises,Groceries,4420.33,407.99
+2020-11-10,South,Wonka Co.,Furniture,1692.21,144.91
+2020-03-11,East,Wayne Enterprises,Furniture,480.14,122.48
+2024-06-18,South,Globex,Books,1809.08,503.88
+2024-07-24,South,Globex,Groceries,2586.69,333.97
+2025-05-08,South,Wonka Co.,Clothing,3607.34,409.26
+2021-09-21,West,Acme Corp,Groceries,4117.3,695.37
+2021-08-24,North,Acme Corp,Electronics,4436.69,865.94
+2024-05-20,West,Wayne Enterprises,Books,593.98,126.4
+2024-01-24,East,Cyberdyne,Books,3229.48,425.39
+2023-03-18,South,Cyberdyne,Books,3189.94,227.98
+2019-11-05,East,Umbrella,Books,4719.24,844.15
+2025-01-13,North,Globex,Groceries,3962.28,1122.58
+2022-11-03,West,Acme Corp,Groceries,974.67,176.47
+2024-04-14,South,Acme Corp,Groceries,3452.3,272.35
+2019-11-27,North,Wayne Enterprises,Furniture,1054.69,298.35
+2024-03-06,East,Wayne Enterprises,Groceries,2610.53,497.98
+2023-07-24,South,Stark Inc.,Furniture,838.73,232.32
+2019-02-19,West,Initech,Groceries,1016.21,256.67
+2025-04-04,East,Cyberdyne,Clothing,4029.28,671.88
+2022-06-13,East,Stark Inc.,Clothing,759.09,173.12
+2025-07-30,South,Globex,Electronics,1182.15,276.34
+2021-02-02,East,Stark Inc.,Furniture,1213.54,340.44
+2023-07-05,North,Umbrella,Books,3247.23,492.23
+2020-11-17,South,Cyberdyne,Books,3136.01,930.92
+2023-07-05,North,Wonka Co.,Electronics,3898.1,530.82
+2019-05-29,East,Stark Inc.,Furniture,1460.09,139.19
+2022-03-19,South,Wonka Co.,Clothing,1869.83,470.36
+2020-08-20,South,Initech,Clothing,3000.53,284.7
+2022-12-24,East,Stark Inc.,Electronics,647.65,36.34
+2020-04-04,West,Globex,Furniture,401.08,21.24
+2023-11-21,East,Wonka Co.,Books,2063.45,344.81
+2022-03-03,North,Wonka Co.,Books,1073.22,167.75
+2025-11-01,North,Acme Corp,Furniture,3016.34,893.9
+2023-10-10,West,Cyberdyne,Books,2632.42,498.56
+2020-07-20,South,Stark Inc.,Electronics,1939.33,357.47
+2025-03-13,South,Cyberdyne,Groceries,4309.69,275.88
+2024-01-28,East,Initech,Electronics,1607.28,226.35
+2019-06-30,West,Stark Inc.,Furniture,1173.69,165.52
+2021-09-29,South,Cyberdyne,Electronics,2906.06,521.03
+2021-01-13,South,Wayne Enterprises,Clothing,2265.63,227.56
+2024-02-17,North,Initech,Books,1760.6,201.66
+2023-12-28,South,Globex,Electronics,1814.86,421.95
+2020-03-23,East,Wonka Co.,Electronics,1849.67,369.49
+2022-12-04,East,Wayne Enterprises,Books,765.2,141.22
+2021-04-02,West,Umbrella,Books,4197.81,692.15
+2019-02-27,West,Wonka Co.,Clothing,610.48,136.91
+2020-11-04,West,Acme Corp,Furniture,711.82,172.82
+2024-01-01,East,Cyberdyne,Furniture,1837.79,131.38
+2023-08-28,South,Globex,Furniture,3752.95,1020.77
+2022-09-20,North,Wayne Enterprises,Furniture,4798.26,1040.65
+2021-07-11,East,Wayne Enterprises,Clothing,3720.67,1033.54
+2025-06-22,East,Globex,Groceries,816.04,154.61
+2020-07-19,East,Cyberdyne,Books,4903.23,1327.31
+2025-12-22,West,Wonka Co.,Electronics,402.94,104.29
+2021-04-18,North,Stark Inc.,Groceries,3439.99,199.46
+2021-03-19,South,Stark Inc.,Groceries,3415.93,321.71
+2022-12-25,West,Acme Corp,Electronics,1971.76,392.11
