@@ -3,13 +3,21 @@ import streamlit as st
 import pandas as pd
 import joblib
 import matplotlib.pyplot as plt
+import os
 
 # ------------------------
 # Load saved models
 # ------------------------
-xgb_model = joblib.load('xgb_walmart_model.pkl')
-cat_model = joblib.load('catboost_walmart_model.pkl')
-lgbm_model = joblib.load('lgbm_walmart_model.pkl')
+
+BASE_DIR = os.path.dirname(__file__)
+
+xgb_model = joblib.load(os.path.join(BASE_DIR, "xgb_walmart_model.pkl"))
+cat_model = joblib.load(os.path.join(BASE_DIR, "catboost_walmart_model.pkl"))
+lgbm_model = joblib.load(os.path.join(BASE_DIR, "lgbm_walmart_model.pkl"))
+
+#xgb_model = joblib.load('xgb_walmart_model.pkl')
+#cat_model = joblib.load('catboost_walmart_model.pkl')
+#lgbm_model = joblib.load('lgbm_walmart_model.pkl')
 
 # ------------------------
 # Page config
@@ -131,4 +139,5 @@ with graph_col:
             ax2.text(i, val + 200, f"${val:,.0f}", ha='center')
         st.pyplot(fig2)
         
+
  
