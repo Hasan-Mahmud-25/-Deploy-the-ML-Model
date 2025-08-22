@@ -8,15 +8,18 @@ import seaborn as sns
 # --------------------------
 # Load models
 # --------------------------
-cat_model = joblib.load("models/catboost_churn_model.pkl")
-xgb_model = joblib.load("models/xgb_churn_model.pkl")
-lgb_model = joblib.load("models/lgb_churn_model.pkl")
+# Get the directory where this script lives
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-models = {
-    "CatBoost": cat_model,
-    "XGBoost": xgb_model,
-    "LightGBM": lgb_model
-}
+# Build absolute paths to each model
+cat_model_path = os.path.join(BASE_DIR, "../models/catboost_churn_model.pkl")
+xgb_model_path = os.path.join(BASE_DIR, "../models/xgb_churn_model.pkl")
+lgb_model_path = os.path.join(BASE_DIR, "../models/lgb_churn_model.pkl")
+
+# Load models
+cat_model = joblib.load(cat_model_path)
+xgb_model = joblib.load(xgb_model_path)
+lgb_model = joblib.load(lgb_model_path)
 
 # --------------------------
 # Features used in training (exclude user_id)
@@ -96,3 +99,4 @@ for i, (name, model) in enumerate(models.items()):
 
 plt.tight_layout()
 st.pyplot(fig)
+
