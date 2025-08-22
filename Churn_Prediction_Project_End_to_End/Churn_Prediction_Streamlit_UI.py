@@ -16,6 +16,11 @@ cat_model = joblib.load(os.path.join(model_dir, "catboost_churn_model.pkl"))
 xgb_model = joblib.load(os.path.join(model_dir, "xgb_churn_model.pkl"))
 lgb_model = joblib.load(os.path.join(model_dir, "lgb_churn_model.pkl"))
 
+models = {
+    "CatBoost": cat_model,
+    "XGBoost": xgb_model,
+    "LightGBM": lgb_model
+}
 
 # --------------------------
 # Features used in training (exclude user_id)
@@ -95,6 +100,7 @@ for i, (name, model) in enumerate(models.items()):
 
 plt.tight_layout()
 st.pyplot(fig)
+
 
 
 
