@@ -1,11 +1,10 @@
 streamlit
-scikit-learn
-joblib
 pandas
 numpy
-lightgbm
-xgboost
-catboost
+joblib
 matplotlib
 seaborn
-plotly
+scikit-learn
+xgboost
+lightgbm
+catboost
