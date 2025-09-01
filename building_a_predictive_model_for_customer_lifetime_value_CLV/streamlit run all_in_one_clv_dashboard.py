@@ -17,11 +17,11 @@ st.title("🚀 Customer Lifetime Value (CLV) Dashboard")
 # Load CSVs
 # -----------------------------
 clv_dashboard = pd.read_csv("building_a_predictive_model_for_customer_lifetime_value_CLV/clv_dashboard_full.csv")
+top_vips = pd.read_csv("building_a_predictive_model_for_customer_lifetime_value_CLV/top_vips.csv")
+growth_targets = pd.read_csv("building_a_predictive_model_for_customer_lifetime_value_CLV/growth_targets.csv")
+segments = pd.read_csv("building_a_predictive_model_for_customer_lifetime_value_CLV/clv_segments_sample.csv")
+all_features = pd.read_csv("building_a_predictive_model_for_customer_lifetime_value_CLV/all_models_top25_business_terms.csv")
 
-top_vips = pd.read_csv("top_vips.csv")
-growth_targets = pd.read_csv("growth_targets.csv")
-segments = pd.read_csv("clv_segments_sample.csv")
-all_features = pd.read_csv("all_models_top25_business_terms.csv")
 
 # -----------------------------
 # Clean column names
@@ -122,5 +122,6 @@ st.subheader("👤 User-level CLV Details")
 st.dataframe(df_filtered[[
     'user_id','predicted_clv_avg','target_customer_value','segment','VIP','clv_decile'
 ]].sort_values(by='predicted_clv_avg', ascending=False))
+
 
 
