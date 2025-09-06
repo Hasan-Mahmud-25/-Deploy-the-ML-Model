@@ -9,11 +9,34 @@ import matplotlib.pyplot as plt
 # -------------------------
 # Load saved objects
 # -------------------------
+import os
+# --------------------------
+# Load models
+# --------------------------
 
-final_model = joblib.load("final_model.pkl")
-scaler = joblib.load("scaler.pkl")
-encoders = joblib.load("encoders.pkl")
-X_train_columns = joblib.load("X_train_columns.pkl")
+# -------------------------
+# Paths
+# -------------------------
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+model_dir = os.path.join(BASE_DIR, "models")
+
+# -------------------------
+# Load models and preprocessing objects
+# -------------------------
+final_model = joblib.load(os.path.join(model_dir, "final_model.pkl"))
+scaler = joblib.load(os.path.join(model_dir, "scaler.pkl"))
+encoders = joblib.load(os.path.join(model_dir, "encoders.pkl"))
+X_train_columns = joblib.load(os.path.join(model_dir, "X_train_columns.pkl"))
+
+# -------------------------
+# Organize in dictionary (optional)
+# -------------------------
+preprocessing_objects = {
+    "scaler": scaler,
+    "encoders": encoders,
+    "X_train_columns": X_train_columns
+}
+
 
 num_cols = ['tenure', 'MonthlyCharges', 'TotalCharges', 'loyalty_score', 'lifetime_value']
 
@@ -162,6 +185,7 @@ with tab3:
         plt.clf()
     else:
         st.info("Please upload a CSV file in the Batch Prediction tab to see Executive Dashboard visuals.")
+
 
 
 
