@@ -10,19 +10,13 @@ import matplotlib.pyplot as plt
 # Load saved objects
 # -------------------------
 
-import os
-import joblib
-
-# Get the current script directory
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-
-# Load models with absolute paths
-final_model = joblib.load(os.path.join(BASE_DIR, "final_model.pkl"))
-scaler = joblib.load(os.path.join(BASE_DIR, "scaler.pkl"))
-encoders = joblib.load(os.path.join(BASE_DIR, "encoders.pkl"))
-X_train_columns = joblib.load(os.path.join(BASE_DIR, "X_train_columns.pkl"))
+final_model = joblib.load("final_model.pkl")
+scaler = joblib.load("scaler.pkl")
+encoders = joblib.load("encoders.pkl")
+X_train_columns = joblib.load("X_train_columns.pkl")
 
 num_cols = ['tenure', 'MonthlyCharges', 'TotalCharges', 'loyalty_score', 'lifetime_value']
+
 
 # -------------------------
 # Helper Functions
@@ -168,5 +162,6 @@ with tab3:
         plt.clf()
     else:
         st.info("Please upload a CSV file in the Batch Prediction tab to see Executive Dashboard visuals.")
+
 
 
