@@ -4,7 +4,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import joblib
-import shap
 import matplotlib.pyplot as plt
 
 # -------------------------
@@ -160,3 +159,4 @@ with tab3:
         plt.clf()
     else:
         st.info("Please upload a CSV file in the Batch Prediction tab to see Executive Dashboard visuals.")
+
